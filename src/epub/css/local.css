@@ -1,2 +1,21 @@
 @charset "UTF-8";
 @namespace epub "http://www.idpf.org/2007/ops";
+
+span[epub|type~="subtitle"]{
+	display: block;
+	font-weight: normal;
+}
+
+abbr.name{
+	white-space: nowrap;
+}
+
+.placard{
+	font-style: italic;
+}
+
+.placard b{
+	font-style: normal;
+	font-weight: normal;
+	font-variant: small-caps;
+}
