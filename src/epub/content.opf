@@ -62,6 +62,9 @@
 		<dc:contributor id="transcriber-2">Margaret Price</dc:contributor>
 		<meta property="file-as" refines="#transcriber-2">Price, Margaret</meta>
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
+		<dc:contributor id="proofreader">Gina Cabal</dc:contributor>
+		<meta property="file-as" refines="#proofreader">Cabal, Gina</meta>
+		<meta property="role" refines="#proofreader" scheme="marc:relators">pfr</meta>
 		<dc:contributor id="producer-1">Alex Cabal</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Cabal, Alex</meta>
 		<meta property="se:url.homepage" refines="#producer-1">https://alexcabal.com</meta>
