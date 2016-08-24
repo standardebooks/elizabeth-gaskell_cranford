@@ -2,9 +2,9 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="cc: http://creativecommons.org/ns, se: http://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/elizabeth-gaskell/cranford</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
-		<meta property="se:revision-number">0</meta>
+		<dc:date>2016-08-24T19:59:23Z</dc:date>
+		<meta property="dcterms:modified">2016-08-24T19:59:23Z</meta>
+		<meta property="se:revision-number">1</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -32,10 +32,12 @@
 		<meta property="meta-auth" refines="#subject-5">https://www.gutenberg.org/ebooks/394</meta>
 		<meta property="meta-auth" refines="#subject-6">https://www.gutenberg.org/ebooks/394</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">A series of sketches about small town life in a changing mid-Victorian England.</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONGDESCRIPTION
+			&lt;p&gt;&lt;i&gt;Cranford&lt;/i&gt; was first serialized in Charles Dickens’ magazine &lt;i&gt;Household Words&lt;/i&gt; between 1851 and 1853.  The structureless nature of the stories, and the fact that Gaskell was busy writing her novel &lt;i&gt;Ruth&lt;/i&gt; at the time the &lt;i&gt;Cranford&lt;/i&gt; shorts were being published, suggests that she didn’t initially plan for &lt;i&gt;Cranford&lt;/i&gt; to be a cohesive novel.&lt;/p&gt;
+			&lt;p&gt;The short vignettes follow the activities of the society in the fictional small English country town of Cranford.  Gaskell drew from her own childhood in Knutsford to imbue her settings and characters with a nostalgic quality in a time when the societies and styles portrayed were already going out of fashion.&lt;/p&gt;
+			&lt;p&gt;Though not especially popular at the time of publication, &lt;i&gt;Cranford&lt;/i&gt; has since gained an immense following, including at least three television adaptations.&lt;/p&gt;
 		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
@@ -75,7 +77,7 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
 	</metadata>
-		<manifest>
+	<manifest>
 		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
 		<item href="css/local.css" id="local.css" media-type="text/css"/>
@@ -125,5 +127,4 @@
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
 	</spine>
-
 </package>
