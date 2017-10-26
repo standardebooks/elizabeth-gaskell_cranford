@@ -11,6 +11,10 @@ span[epub|type~="subtitle"]{
 	font-weight: normal;
 }
 
+.prophecy{
+	text-align: center;
+}
+
 abbr.name{
 	white-space: nowrap;
 }
