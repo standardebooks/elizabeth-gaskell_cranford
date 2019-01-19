@@ -6,15 +6,15 @@ span[epub|type~="subtitle"]{
 	font-weight: normal;
 }
 
-.prophecy{
+#chapter-3 blockquote{
 	text-align: center;
 }
 
-.placard{
+#chapter-16 blockquote{
 	font-style: italic;
 }
 
-.placard b{
+#chapter-16 blockquote b{
 	font-style: normal;
 }
 
