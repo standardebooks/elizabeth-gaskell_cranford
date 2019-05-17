@@ -26,7 +26,7 @@
 		<meta property="schema:accessibilityFeature">tableOfContents</meta>
 		<meta property="schema:accessibilityHazard">none</meta>
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.0 Level AA.</meta>
-		<link href="onix.xml" rel="onix-record"/>
+		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">Cranford</dc:title>
 		<meta property="file-as" refines="#title">Cranford</meta>
 		<dc:subject id="subject-1">England -- Fiction</dc:subject>
@@ -35,21 +35,25 @@
 		<dc:subject id="subject-4">Villages -- Fiction</dc:subject>
 		<dc:subject id="subject-5">Older women -- Fiction</dc:subject>
 		<dc:subject id="subject-6">Female friendship -- Fiction</dc:subject>
-		<meta property="meta-auth" refines="#subject-1">https://www.gutenberg.org/ebooks/394</meta>
-		<meta property="meta-auth" refines="#subject-2">https://www.gutenberg.org/ebooks/394</meta>
-		<meta property="meta-auth" refines="#subject-3">https://www.gutenberg.org/ebooks/394</meta>
-		<meta property="meta-auth" refines="#subject-4">https://www.gutenberg.org/ebooks/394</meta>
-		<meta property="meta-auth" refines="#subject-5">https://www.gutenberg.org/ebooks/394</meta>
-		<meta property="meta-auth" refines="#subject-6">https://www.gutenberg.org/ebooks/394</meta>
+		<meta property="authority" refines="#subject-1">LCSH</meta>
+		<meta property="term" refines="#subject-1">Unknown</meta>
+		<meta property="authority" refines="#subject-2">LCSH</meta>
+		<meta property="term" refines="#subject-2">sh2008111400</meta>
+		<meta property="authority" refines="#subject-3">LCSH</meta>
+		<meta property="term" refines="#subject-3">sh85098569</meta>
+		<meta property="authority" refines="#subject-4">LCSH</meta>
+		<meta property="term" refines="#subject-4">sh2008113249</meta>
+		<meta property="authority" refines="#subject-5">LCSH</meta>
+		<meta property="term" refines="#subject-5">sh2008108600</meta>
+		<meta property="authority" refines="#subject-6">LCSH</meta>
+		<meta property="term" refines="#subject-6">sh2008103512</meta>
 		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">A series of sketches about small town life in a changing mid-Victorian England.</dc:description>
-		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;i&gt;Cranford&lt;/i&gt; was first serialized in Charles Dickens’ magazine &lt;i&gt;Household Words&lt;/i&gt; between 1851 and 1853. The structureless nature of the stories, and the fact that Gaskell was busy writing her novel &lt;i&gt;Ruth&lt;/i&gt; at the time the &lt;i&gt;Cranford&lt;/i&gt; shorts were being published, suggests that she didn’t initially plan for &lt;i&gt;Cranford&lt;/i&gt; to be a cohesive novel.&lt;/p&gt;
 			&lt;p&gt;The short vignettes follow the activities of the society in the fictional small English country town of Cranford. Gaskell drew from her own childhood in Knutsford to imbue her settings and characters with a nostalgic quality in a time when the societies and styles portrayed were already going out of fashion.&lt;/p&gt;
 			&lt;p&gt;Though not especially popular at the time of publication, &lt;i&gt;Cranford&lt;/i&gt; has since gained an immense following, including at least three television adaptations.&lt;/p&gt;
 		</meta>
-		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/394</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/006155757</dc:source>
