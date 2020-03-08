@@ -57,8 +57,8 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/394</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/006155757</dc:source>
-		<meta property="se:word-count">71681</meta>
-		<meta property="se:reading-ease.flesch">63.53</meta>
+		<meta property="se:word-count">71683</meta>
+		<meta property="se:reading-ease.flesch">63.43</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Cranford_%28novel%29</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/elizabeth-gaskell_cranford</meta>
 		<dc:creator id="author">Elizabeth Gaskell</dc:creator>
